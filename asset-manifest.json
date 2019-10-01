@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6210ad8c.chunk.css",
-    "main.js": "/static/js/main.5bfadde5.chunk.js",
-    "main.js.map": "/static/js/main.5bfadde5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.9bdd2024.chunk.js": "/static/js/2.9bdd2024.chunk.js",
-    "static/js/2.9bdd2024.chunk.js.map": "/static/js/2.9bdd2024.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3a108288041ed9754221fb362690f1e7.js": "/precache-manifest.3a108288041ed9754221fb362690f1e7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6210ad8c.chunk.css.map": "/static/css/main.6210ad8c.chunk.css.map"
+    "main.css": "/DFDS.github.io/static/css/main.6210ad8c.chunk.css",
+    "main.js": "/DFDS.github.io/static/js/main.702e933d.chunk.js",
+    "main.js.map": "/DFDS.github.io/static/js/main.702e933d.chunk.js.map",
+    "runtime~main.js": "/DFDS.github.io/static/js/runtime~main.6ff67171.js",
+    "runtime~main.js.map": "/DFDS.github.io/static/js/runtime~main.6ff67171.js.map",
+    "static/js/2.9bdd2024.chunk.js": "/DFDS.github.io/static/js/2.9bdd2024.chunk.js",
+    "static/js/2.9bdd2024.chunk.js.map": "/DFDS.github.io/static/js/2.9bdd2024.chunk.js.map",
+    "index.html": "/DFDS.github.io/index.html",
+    "precache-manifest.08ebc724d06f467a4dc28874267f04da.js": "/DFDS.github.io/precache-manifest.08ebc724d06f467a4dc28874267f04da.js",
+    "service-worker.js": "/DFDS.github.io/service-worker.js",
+    "static/css/main.6210ad8c.chunk.css.map": "/DFDS.github.io/static/css/main.6210ad8c.chunk.css.map"
   }
 }
